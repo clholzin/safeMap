@@ -1,0 +1,11 @@
+*.test
+*.svg
+
+*.log
+*.tmp
+.idea/
+.idea/*.xml
+
+*.exe
+*.out
+*.perf
